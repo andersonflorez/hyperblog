@@ -12,5 +12,6 @@ Un blog increible para el[ curso de Git y github](https://platzi.com/clases/git-
 * Trucos muy locos del profesor
 * Las personalidades multiples del profesor
 * Creado por el increible
+* Incluye ejemplos
 
 Y como un amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo.
